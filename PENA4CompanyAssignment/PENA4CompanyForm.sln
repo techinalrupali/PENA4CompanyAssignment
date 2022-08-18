@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PENA4CompanyForm", "PENA4CompanyForm\PENA4CompanyForm.csproj", "{8F72F656-C9C7-4483-AFD3-697A090E9BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F72F656-C9C7-4483-AFD3-697A090E9BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F72F656-C9C7-4483-AFD3-697A090E9BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F72F656-C9C7-4483-AFD3-697A090E9BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F72F656-C9C7-4483-AFD3-697A090E9BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F793D9-724F-4EAE-818E-2EFC69CB4473}
+	EndGlobalSection
+EndGlobal
